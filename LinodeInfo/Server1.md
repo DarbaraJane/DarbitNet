@@ -6,3 +6,4 @@
 **Storage:**80gb
 **SSHD:**Blocked port 22 and root login
 **Users:**Created account for myself and added to sudoers
+**Software:**Installed Nginx
