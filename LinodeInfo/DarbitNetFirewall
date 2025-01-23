@@ -1,0 +1,2 @@
+Added a firewall in Linode that only accepts HTTP, HTTPS, and SSH traffic
+Configured SSH traffic to only be allowed on a non-standard port
